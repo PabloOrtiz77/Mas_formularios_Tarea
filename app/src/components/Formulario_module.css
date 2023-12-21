@@ -1,0 +1,30 @@
+div{
+    margin: 20px;
+}
+
+.Input{
+    display: flex;
+    width: 350px;
+    background-color: rgba(211, 211, 211, 0.322);
+    border-radius: 5px;
+    height: 3.2em;
+    color: rgba(0, 0, 0, 0.421);
+    align-items: center;
+    padding: 10px;
+    box-sizing: border-box;
+    justify-content: space-between;
+}
+.Input>input{
+    border-radius: 5px;
+    height: 1.9em;
+    width: 200px;
+    border: 1px solid lightgray;
+
+}
+
+p{
+    padding: 10px;
+}
+.p1{
+    text-align: center;
+}
